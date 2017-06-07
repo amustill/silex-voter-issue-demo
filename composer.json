@@ -1,0 +1,6 @@
+{
+    "require": {
+        "silex/silex": "^2.1",
+        "symfony/security": "3.0"
+    }
+}
